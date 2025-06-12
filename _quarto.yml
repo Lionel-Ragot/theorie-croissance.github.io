@@ -42,7 +42,7 @@ lang: fr
 format:
   html:
     css: styles.css
-    output-dir: _html
+    output-dir: docs
     theme: cosmo
     toc: true
     toc-depth: 3
