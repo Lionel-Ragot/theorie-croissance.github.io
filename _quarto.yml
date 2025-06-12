@@ -1,0 +1,52 @@
+project:
+  type: book
+
+
+book:
+  title: "Théorie de la croissance économique"
+  author:
+    - name: David Desmarchelier
+      affiliation:
+        - Université Dde Lorraine
+        - Beta - umr7522
+      email: david.desmarchelier@univ-lorraine.fr
+      url: https://sites.google.com/site/daviddesmarchelier/
+    - name: Lionel Ragot
+      affiliation:
+        - Université Paris Nanterre
+        - Economix - umr7235
+        - CEPII
+      email: lionel.ragot@parisnanterre.fr
+      url: https://www.lionel-ragot.eu
+      orcid: 0000-0003-3285-6164
+  date: "09/06/2025"
+  page-navigation: true
+  # cover-image: "cover.png"  # image de couverture
+  # favicon: "images/favicon.ico"    # icône du navigateur
+  chapters:
+    - index.qmd
+    - chapitres/intro.qmd
+    - part: chapitres/part-sources.qmd
+      chapters:
+        - chapitres/chap-faits.qmd
+        - chapitres/chap-solow.qmd
+    - references.qmd
+  appendices:
+    - part: "Les grands auteurs"
+      chapters:
+        - annexes/auteurs/solow.qmd
+
+bibliography: references.bib
+lang: fr
+
+format:
+  html:
+    css: styles.css
+    output-dir: _html
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    number-depth: 5
+    number-sections: true
+    fig-cap-location: "bottom"
+    tbl-cap-location: "bottom"

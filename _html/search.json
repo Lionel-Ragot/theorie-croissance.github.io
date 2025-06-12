@@ -1,0 +1,77 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Théorie de la croissance économique",
+    "section": "",
+    "text": "Préface\nCe cours est actuellement en construction.",
+    "crumbs": [
+      "Préface"
+    ]
+  },
+  {
+    "objectID": "chapitres/intro.html",
+    "href": "chapitres/intro.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "Lorsque vous étudiez une question quelconque ou que vous examinez une quelconque philosophie, demandez-vous: quels sont les faits? Quelles sont les observations qui les confirment? Ne vous laissez jamais jamais détourner par ce que vous voudriez croire ou par ce que vous pensez qui serait bénéfique pour notre société si on se mettait à les croire, mais regardez uniquement les faits et rien d’autre.\n\n— Bertrand Russell, Message aux générations futures",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "chapitres/chap-solow.html",
+    "href": "chapitres/chap-solow.html",
+    "title": "2  Les conditions pour une croissance soutenue",
+    "section": "",
+    "text": "2.1 Le modèle de Solow : taux d’épargne exogène et accumulation du capital physique\nC’est à une théorie de la croissance qui cherche à définir les mécanismes économiques pouvant expliquer les faits stylisés de Kaldor que sont consacrés les développements qui suivent. Le modèle que l’on peut qualifier de fondateur de cette théorie, a été établi en 1956 par R.J. Solow (Solow 1956). Sa préoccupation première était précisément de définir les conditions qui pouvaient conduire à une croissance équilibrée et pérenne; que l’on peut donc qualifier de stable. Cette stabilité de la croissance résulte, dans ce modèle, du libre fonctionnement des marchés, qui situe ou ramène toujours l’économie sur son sentier de croissance équilibrée. Nous développons également le modèle de croissance à générations imbriquées qui étend le cadre d’analyse proposé par Solow en formalisant la détermination endogène du taux d’épargne.",
+    "crumbs": [
+      "Les sources de la croissance",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Les conditions pour une croissance soutenue</span>"
+    ]
+  },
+  {
+    "objectID": "chapitres/chap-solow.html#le-modèle-de-solow-taux-dépargne-exogène-et-accumulation-du-capital-physique",
+    "href": "chapitres/chap-solow.html#le-modèle-de-solow-taux-dépargne-exogène-et-accumulation-du-capital-physique",
+    "title": "2  Les conditions pour une croissance soutenue",
+    "section": "",
+    "text": "2.1.1 Le cadre conceptuel du modèle de Solow\nComme tout modèle économique, la présentation du modèle de Solow peut être faite selon une approche séquentielle. La première étape consiste à définir les hypothèses générales du modèle (quels sont les agents économiques, les biens, marchés pris en compte dans la modélisation?), en d’autres termes délimiter le circuit économique auquel on va s’intéresser. Puis, partant de ce cadre d’analyse général, il faut fixer les hypothèses sur les fondamentaux qui vont déterminer les offres et les demandes des agents économiques sur les différents marchés. Enfin, la dernière étape consiste à résoudre le modèle, ici à définir comment vont évoluer au cours du temps les différents agrégats économiques à l’équilibre des marchés, et à interpréter ces principaux résultats en les confrontant aux faits stylisés de la croissance.\n\n2.1.1.1 Les hypothèses générales\nLe modèle de Solow repose sur une représentation extrêmement simplifiée de l’économie :\n\nLe cadre d’analyse est purement déterministe. Aucune variable du modèle n’est aléatoire.\nL’économie est supposée être fermée. Aucun échange (mouvement) n’est réalisé avec une autre économie, qu’il soit réel (biens, immigration, émigration) ou monétaire (capitaux financiers).\nSeuls deux agents économiques sont pris en compte : les entreprises qui produisent les biens et services et les ménages. L’État est négligé et le reste du monde est délaissé en raison de l’hypothèse précédente. Les ménages consomment des biens et services, épargnent et offrent leur force de travail. Les entreprises pour produire ont besoin de travail, de capital physique et empruntent sur le marché financier pour investir. Elles offrent l’intégralité des biens et services produits.\nLe niveau d’agrégation est à son maximum : un seul secteur de production, pas d’hétérogénéité au niveau des entreprises et des ménages.\nTrois marchés sont représentés (donc trois types de “biens” différents sont échangés dans l’économie) : le marché des biens et services, le marché du travail et le marché financier.\nTous les marchés sont en concurrence parfaite. Les prix s’ajustent librement pour équilibrer l’offre et la demande.\n\nCes hypothèses générales définissent le cadre du circuit simplifié de cette économie, qui est représenté dans la figure Figure 2.1. Celle-ci décrit pour chaque marché les différentes offres et demandes, des deux types d’agents, l’équilibre entre l’offre et la demande et le prix d’équilibre.\n\n\n\n\n\n\nFigure 2.1: Cadre général du modèle de Solow\n\n\n\n\n\n2.1.1.2 Les comportements des agents économiques\nCes hypothèses générales étant posées, il reste à définir les fondamentaux de l’économie qui permettent de déterminer précisément quelles sont les offres et les demandes adressées à chacun des marchés.\nConcernant les entreprises, pour une structure de marché donnée1, c’est la technologie de production (la fonction de production) qui va déterminer leur offre et leurs demandes. Pour les ménages, celles-ci sont généralement dépendantes de leurs préférences (la fonction d’utilité). Les fondamentaux sont donc la technologie de production et les préférences des ménages :\n\nLa fonction de production est supposée avoir les bonnes propriétés (cf. encadré sur les bonnes propriétés de la fonction de production du chapitre pertinent).\nDans ce modèle, il n’y a pas de fondements microéconomiques au comportement des ménages. Leur offre de travail, leur consommation et leur épargne ne résultent pas d’un programme de maximisation du bien-être sous contrainte budgétaire. Il est supposé, bien plus simplement, que leur taux d’épargne comme leur offre de travail individuelle sont constantes au cours du temps.\n\nNous commençons par décrire les offres et demandes des ménages sur les différents marchés, avant de définir le comportement optimal des entreprises dans ce cadre intertemporel.\n\n2.1.1.2.1 Le comportement des ménages\nLes ménages sont offreurs sur le marché du travail et sur le marché financier, et demandeurs sur le marché des biens et services (cf. Figure 2.1).\n\nL’offre de travail : L’élasticité de l’offre de travail, \\(L^s\\), par rapport au taux de salaire réel est nulle \\(\\left(\\frac{\\partial L^s}{\\partial (W/p)}\\frac{W/p}{L^s}=0\\right)\\). On parle alors d’offre de travail inélastique (par rapport au salaire). Quelle que soit la variation du taux de salaire, les ménages offrent une quantité de travail constante au cours du temps et normalisée à 1. Par souci de simplification dans l’écriture du modèle, tous les individus travaillent, il n’y a pas d’inactif dans l’économie. Cette hypothèse n’a pas de conséquence sur les principaux enseignements du modèle. L’offre individuelle de travail est donc égale à 1, ce qui implique que l’offre agrégée de travail est égale à \\(L_t\\). Sous ces hypothèses, \\(L_t\\) représente donc indifféremment l’offre agrégée de travail, le nombre de travailleurs ou encore la population totale2. Par la suite, nous parlerons de variables par tête. De plus, la population (donc la force de travail) est supposée croître à un taux constant exogène, \\(n\\) : \\[\n\\frac{L_{t+1}}{L_t} = (1+n), \\quad \\forall t \\tag{1}\n\\] Sous ces hypothèses, l’offre agrégée de travail croît continûment au taux de croissance de la population (\\(n\\)).\nL’épargne : Le taux d’épargne individuel (\\(0 &lt; s &lt; 1\\)) est supposé donné, constant au cours du temps et identique pour tous les ménages. Les ménages étant uniquement caractérisés, dans ce modèle, par leur offre de travail et leur taux d’épargne, ces deux hypothèses conduisent à considérer que tous les ménages sont identiques. Le niveau d’épargne agrégé est donc défini par \\(S_t = s L_t y_{d,t}\\), avec \\(y_{d,t}\\) le revenu disponible. En l’absence de l’État, donc d’impôts, de taxes et transferts, ce revenu disponible (nominal) est défini par les revenus perçus par les ménages : revenus salariaux, contrepartie de leur offre de travail et revenus financiers, contrepartie de leur offre de capitaux financiers (l’épargne).\nLa demande de biens et services Cette hypothèse de taux d’épargne constant et exogène revient à postuler une fonction de consommation macroéconomique keynésienne. En effet, l’équilibre emplois-ressources des ménages impose que le revenu disponible agrégé (ressources) est, soit consommé, soit épargné (emplois) (\\(Y_{d,t}=p_t C_t+S_t\\)), avec \\(p_t\\) le prix d’équilibre du marché des biens et services et \\(C_t\\) la consommation agrégée en volume. On en déduit, \\(p_t C_t = Y_{d,t} - s  Y_{d,t}\\), soit encore \\(p_t C_t = (1-s)  Y_{d,t}=a  Y_{d,t}\\) où, en reprenant la terminologie keynésienne, \\(a\\) est la propension (marginale, \\(a=\\frac{\\partial p_tC_t}{\\partial  Y_{d,t}}\\) et moyenne, \\(a=\\frac{p_t C_t}{ Y_{d,t}}\\)) à consommer de la fonction de consommation keynésienne (avec \\(0&lt;a=1-s&lt;1\\)).\n\n\n\n\n2.1.1.3 Le comportement des entreprises\nLe comportement des entreprises dans le modèle de Solow repose sur des fondements microéconomiques, qui permettent de caractériser précisément leurs offres et leurs demandes sur les différents marchés (cf. figure Figure 2.1).\nToutes les entreprises utilisent la même technologie de production et disposent du même stock de capital physique initial (elles sont donc identiques). Pour produire les firmes ont besoin de capital physique et de travail. La fonction de production d’une firme \\(i\\) s’écrit : \\[\nY^i_t=F(K^i_t,L^i_t)\n\\] avec \\(Y^i_t\\) la quantité produite par l’entreprise \\(i\\) à la période \\(t\\), \\(K^i_t\\) la quantité de capital physique détenu par la firme \\(i\\) à la période \\(t\\) et \\(L^i_t\\) la quantité de travail employée à la période \\(t\\) par l’entreprise \\(i\\). Les entreprises étant identiques, elles produisent la même quantité (\\(Y^i_t=Y_t \\forall i\\)) et ont les mêmes demandes de facteurs. Pour simplifier les notations, on suppose un continuum de masse 1 d’entreprises. La production totale à la période \\(t\\) est donc égale à \\(\\int^1_0 Y_i di=\\int^1_0 Y_t di=Y_t\\int^1_0 1 di=Y_t\\). Sachant que la même agrégation peut être opérée sur les facteurs de production, la fonction de production agrégée s’écrit : \\[\nY_t=F(K_t,L_t)\n\\] Elle est supposée avoir les bonnes propriétés ( encadré sur les de la fonction de production du chapitre ??).\n\n\n\n\nSolow, Robert M. 1956. « A Contribution to the Theory of Economic Growth ». Quarterly Journal of Economics 70 (1): 65‑94.",
+    "crumbs": [
+      "Les sources de la croissance",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Les conditions pour une croissance soutenue</span>"
+    ]
+  },
+  {
+    "objectID": "chapitres/chap-solow.html#footnotes",
+    "href": "chapitres/chap-solow.html#footnotes",
+    "title": "2  Les conditions pour une croissance soutenue",
+    "section": "",
+    "text": "Le comportement d’une entreprise, à technologie de production donnée, ne sera pas le même suivant qu’elle se situe sur un marché parfaitement concurrentiel, ou qu’elle se trouve par exemple en situation de monopole.↩︎\nNous adoptons dans ce chapitre et les suivants, la règle de notation suivante pour les agrégats macroéconomiques : une lettre en majuscule représente l’agrégat en niveau (par exemple \\(Y_t\\) représente le PIB en niveau, agrégé, de la période \\(t\\)), la même lettre en minuscule correspond à la variable par travailleurs (où par tête), c’est-à-dire l’agrégat en niveau divisé par le nombre de travailleurs (le nombre d’individus) dans l’économie (\\(y_t = Y_t / L_t\\)).↩︎",
+    "crumbs": [
+      "Les sources de la croissance",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Les conditions pour une croissance soutenue</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "Références bibliographiques",
+    "section": "",
+    "text": "Solow, Robert M. 1956. “A Contribution to the\nTheory of Economic\nGrowth.” Quarterly Journal of Economics 70\n(1): 65–94.",
+    "crumbs": [
+      "Références bibliographiques"
+    ]
+  },
+  {
+    "objectID": "annexes/auteurs/solow.html",
+    "href": "annexes/auteurs/solow.html",
+    "title": "R.J. Solow (1924-2023)",
+    "section": "",
+    "text": "Économiste américain, professeur au Massachusetts Institute of Technology (MIT) et conseiller économique du président Kennedy, il reçut le prix Nobel d’économie en 1987 pour ses contributions à la théorie de la croissance.\nIl a jeté les bases de la théorie moderne de la croissance économique dans un article (Solow 1956) qui fait encore référence aujourd’hui. Son modèle explique pourquoi une croissance soutenue est possible grâce à l’accumulation du capital physique et met en avant le rôle primordial du progrès technique (exogène) pour expliquer la croissance à long terme du revenu par tête.\nIl a également développé une approche comptable permettant de mesurer ce progrès technique. Il est définit par la partie de la croissance qui n’est pas expliquée par la croissance des facteurs de production (capital et travail). Il est depuis appelé aussi résidu de Solow.\n\n\n\n\nSolow, Robert M. 1956. « A Contribution to the Theory of Economic Growth ». Quarterly Journal of Economics 70 (1): 65‑94.",
+    "crumbs": [
+      "Annexes",
+      "Les grands auteurs",
+      "R.J. Solow (1924-2023)"
+    ]
+  }
+]

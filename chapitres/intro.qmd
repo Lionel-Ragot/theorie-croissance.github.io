@@ -1,0 +1,7 @@
+# Introduction {.unnumbered}
+
+::: {style="text-align: right; font-style: italic; color: #555; border-left: 3px solid #eee; padding-left: 1em; margin: 1em 0; padding-right: 2em;"}
+> Lorsque vous étudiez une question quelconque ou que vous examinez une quelconque philosophie, demandez-vous: quels sont les faits? Quelles sont les observations qui les confirment? Ne vous laissez jamais jamais détourner par ce que vous voudriez croire ou par ce que vous pensez qui serait bénéfique pour notre société si on se mettait à les croire, mais regardez uniquement les faits et rien d'autre.
+
+**— Bertrand Russell**, *Message aux générations futures*
+:::

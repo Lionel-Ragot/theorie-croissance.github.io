@@ -1,0 +1,13 @@
+# R.J. Solow (1924-2023) {#sec-solow .unnumbered}
+
+<!-- ![](fig/solow.Png){Fig-Alt="Portrait de Robert J. Solow" Width=150px Float=Right} -->
+
+<div style="float: left; margin-right: 15px; margin-bottom: 15px;">
+  <img src="fig/solow.png" alt="Portrait d eRobert J. Solow" style="width: 150px;"/>
+</div>
+
+Économiste américain, professeur au Massachusetts Institute of Technology (MIT) et conseiller économique du président Kennedy, il reçut le prix Nobel d'économie en 1987 pour ses contributions à la théorie de la croissance.
+
+Il a jeté les bases de la théorie moderne de la croissance économique dans un article [@SOLOW/56] qui fait encore référence aujourd'hui. Son modèle explique pourquoi une croissance soutenue est possible grâce à l'accumulation du capital physique et met en avant le rôle primordial du progrès technique (exogène) pour expliquer la croissance à long terme du revenu par tête.
+
+Il a également développé une approche comptable permettant de mesurer ce progrès technique.  Il est définit par la partie de la croissance qui n'est pas expliquée par la croissance des facteurs de production (capital et travail). Il est depuis appelé aussi *résidu de Solow*.

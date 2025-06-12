@@ -1,0 +1,27 @@
+/* Masquer le fil d'Ariane */
+.navbar-breadcrumbs {
+  display: none !important;
+}
+
+/* Alternative si la classe est différente */
+.breadcrumb {
+  display: none !important;
+}
+
+/* Pour que le texte soit justifié */
+/* styles.css */
+p {
+  text-align: justify;
+}
+
+/* Centrer les légendes des figures */
+.quarto-figure-caption {
+  text-align: center !important;
+  font-weight: bold;
+}
+
+/* Style des figures */
+.quarto-figure {
+  margin: 1em auto;
+  text-align: center;
+}
