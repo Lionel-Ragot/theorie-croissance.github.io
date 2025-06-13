@@ -2,4 +2,4 @@
 
 <span style="color:red; font-size:24px;">Ce cours est actuellement en construction.</span>
 
-Essai 5  de déploiement automatisé depuis Emacs
+Essai 6  de déploiement automatisé depuis Emacs
